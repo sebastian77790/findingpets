@@ -1,0 +1,16 @@
+*
+{
+    font-family: 'roboto';
+
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+	background: #f1f1f1;
+}
+
+a:visited{
+  text-decoration: none !important;
+}
